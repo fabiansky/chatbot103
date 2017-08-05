@@ -12,7 +12,7 @@ A [Github](https://github.com/)-powered bot using [Recast.AI](https://recast.ai)
 Follow the instructions below to create your own instance of the bot:
 
 Folder for your bot
---------------------
+---------------------
 
 Create folder: `mkdir my-first-recast-chatbot`
 
